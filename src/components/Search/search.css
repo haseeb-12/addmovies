@@ -1,0 +1,13 @@
+.input_search{
+    width: 100%;
+    border: none;
+    width: 100%;
+    text-align: left;
+    padding: .5rem;
+    outline:none;
+    background: #e8f9ed;
+    border-radius: 4px;
+}
+.input_search:focus{
+    border-bottom: 2px solid grey;
+}
